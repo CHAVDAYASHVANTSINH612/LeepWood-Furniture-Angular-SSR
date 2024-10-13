@@ -1,0 +1,19 @@
+.sofa-img {
+    background-image: url("../../../assets/Sofa1-removebg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.home-content {
+    background-color: #c7efff;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom: 1px solid gray;
+}
+
+.heading-text {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
